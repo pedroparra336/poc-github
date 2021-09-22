@@ -20,4 +20,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: pedroparra336/poc-github:${{ github.sha }}.latest
+        tags: pedropa336/poc-github:${{ github.sha }}.latest
